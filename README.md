@@ -1,5 +1,4 @@
-# project_crud
-
+# App CRUD (Create, Read, Update, Delete)
 A new Flutter project.
 
 ## Getting Started
